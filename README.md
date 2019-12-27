@@ -1,8 +1,11 @@
 # BLoC Example - Counter 
 
 > 使用Library - [flutter_bloc](https://github.com/felangel/bloc/)
->此筆記不同於[官方的Counter例子](https://bloclibrary.dev/#/fluttercountertutorial)，使用較完整的結構
->如果有誤解，請指正，我也是新手!
+> 
+> 此筆記不同於[官方的Counter例子](https://bloclibrary.dev/#/fluttercountertutorial)，使用較完整的結構
+> 
+> 如果有誤解，請指正，我也是新手!
+> 
 >[Source Code](https://github.com/WingCH?tab=repositories)
 
 ![2019-12-26_20-30-48](https://i.loli.net/2019/12/26/Tfo1YZe6aDVNvs7.gif)
